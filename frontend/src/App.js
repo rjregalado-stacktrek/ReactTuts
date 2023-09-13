@@ -4,6 +4,8 @@ function App() {
   return (
     <div className="App">
      <h1>Garden Management System</h1> 
+     <h1>Garden Management System</h1> 
+     <h1>Garden Management System</h1> 
     </div>
   );
 }
